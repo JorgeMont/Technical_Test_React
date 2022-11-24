@@ -1,0 +1,14 @@
+body{
+    background-color: #1d2021;
+    color: white;
+
+    .container{
+        border: 1px solid gray;
+        border-radius: 5px;
+        padding: 2rem;
+        width: 50rem;
+        margin: 3rem auto;
+        display: flex;
+        flex-direction: row;
+    }
+}

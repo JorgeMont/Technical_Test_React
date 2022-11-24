@@ -2,7 +2,7 @@
 
 Given these 2 APIs:
 
-https://carfact.ninja/fact <- Cat Random Facts
+https://catfact.ninja/fact <- Cat Random Facts
 https://developers.giphy.com/docs/ <- Giphy API
 
 Select one random cat fact and look for a matching gif by using the first 3 words from the fact.

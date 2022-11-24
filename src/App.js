@@ -1,9 +1,10 @@
+import RandomCats from "./Views/RandomCats";
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <main className="App">
+      <RandomCats />
+    </main>
   );
 }
 
